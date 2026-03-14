@@ -127,12 +127,12 @@ box-shadow:0 10px 25px rgba(0,0,0,0.2);
 }
 
 .product button {
-    font-size: 14px;
+    font-size: 12px;
     font-weight: 600;
-    padding: 15px 30px;
-    color: #000;
+    padding: 8px 12px;
+    color: #fff;
     background-color: #c1121f;
-    border-radius: 4px;
+    border-radius: 5px;
     cursor: pointer;
     border: none;
     outline: none;
